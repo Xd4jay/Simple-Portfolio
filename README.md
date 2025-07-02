@@ -1,12 +1,26 @@
-## 📌 Project Overview
+<div align="center">
 
-**"A clean, responsive portfolio featuring a compelling hero introduction, a concise professional bio, and an accessible contact interface."**
+# 🌐 Simple Portfolio
 
-This project was built to reflect both design clarity and functional structure — offering visitors a brief, elegant insight into who I am and how to connect.
+Welcome to my minimalist personal portfolio — a clean, responsive space built to introduce myself, share a glimpse of who I am, and make it easy for people to connect.
 
 ---
 
-## ✅ Dialog Testing
+## 📌 Project Overview
 
-> **User:** Can I quickly learn who you are and how to reach you?  
-> **Portfolio:** Absolutely — just scroll through the hero, about, and contact sections. It's all there, crisp and clear.
+> **"Built for clarity, designed for impact — a clean, responsive portfolio that speaks for itself."**
+
+This site highlights my profile with a bold hero section, a concise bio, and a minimal contact interface — all crafted to leave a lasting impression.
+
+
+---
+
+## 🚀 Live Demo
+
+<a href="https://xd4jay.github.io/Simple-Portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐%20View%20Live%20Demo-Click%20Here-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="Live Demo Badge">
+</a>
+
+---
+
+</div>

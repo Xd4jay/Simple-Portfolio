@@ -4,7 +4,7 @@ import { Github, Linkedin } from 'lucide-react';
 
 const Contact = () => {
   return (
-    <section id="contact" className="py-20 bg-white">
+    <section id="contact" className="py-20 bg-white/80 backdrop-blur-sm">
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="max-w-3xl mx-auto text-center">
           {/* Section heading */}
@@ -23,10 +23,10 @@ const Contact = () => {
             <div>
               <h3 className="text-xl font-semibold text-gray-900 mb-2">Email</h3>
               <a
-                href="mailto:ajay.sreenivasan@example.com"
+                href="mailto:ajaysreenivasan7@gmail.com"
                 className="text-blue-600 hover:text-blue-700 transition-colors text-lg"
               >
-                ajay.sreenivasan@example.com
+                ajaysreenivasan7@gmail.com
               </a>
             </div>
             
@@ -35,7 +35,7 @@ const Contact = () => {
               <h3 className="text-xl font-semibold text-gray-900 mb-4">Connect With Me</h3>
               <div className="flex justify-center space-x-6">
                 <a
-                  href="https://github.com/ajaysreenivasan"
+                  href="https://github.com/Xd4jay"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center space-x-2 text-gray-700 hover:text-blue-600 transition-colors p-3 rounded-lg hover:bg-gray-50"
@@ -45,7 +45,7 @@ const Contact = () => {
                 </a>
                 
                 <a
-                  href="https://linkedin.com/in/ajaysreenivasan"
+                  href="http://www.linkedin.com/in/ajaysreenivasan7"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center space-x-2 text-gray-700 hover:text-blue-600 transition-colors p-3 rounded-lg hover:bg-gray-50"

@@ -46,7 +46,7 @@ const Navigation = () => {
           {/* Mobile menu button */}
           <div className="md:hidden flex items-center space-x-4">
             <a
-              href="https://github.com/ajaysreenivasan"
+              href="https://github.com/Xd4jay"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-700 hover:text-blue-600 transition-colors"
@@ -54,7 +54,7 @@ const Navigation = () => {
               <Github size={20} />
             </a>
             <a
-              href="https://linkedin.com/in/ajaysreenivasan"
+              href="http://www.linkedin.com/in/ajaysreenivasan7"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-700 hover:text-blue-600 transition-colors"

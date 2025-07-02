@@ -1,4 +1,3 @@
-
 import React from 'react';
 
 const About = () => {
@@ -10,7 +9,7 @@ const About = () => {
           <div className="mb-12 flex justify-center">
             <div className="w-40 h-40 rounded-full overflow-hidden shadow-lg ring-4 ring-white">
               <img
-                src="/lovable-uploads/fdd138f1-3906-48a9-8edb-23133f8aad27.png"
+                src="/placeholder.svg"
                 alt="Ajay Sreenivasan"
                 className="w-full h-full object-cover"
               />
